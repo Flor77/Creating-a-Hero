@@ -1,3 +1,11 @@
+* {
+  color: rgb(25, 25, 29);
+}
+
+body {
+  background-color: aliceblue;
+}
+
 .App {
   text-align: center;
 }
